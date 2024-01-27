@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+}
+
+dl {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 1rem;
+}
+
+dt {
+  font-family: "KHドット小伝馬町16";
+  font-weight: bold;
+  white-space: pre;
+}
+
+dd {
+  display: block;
+  margin-inline-start: 2rem;
+  white-space: pre;
+}
