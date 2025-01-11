@@ -1,26 +1,26 @@
 {
-  "name": "sted-manual",
-  "version": "0.0.1",
-  "description": "User's manual for STed MIDI Sequencer",
-  "scripts": {
-    "dev": "next",
-    "build": "next build",
-    "start": "next start"
-  },
-  "keywords": [],
-  "author": "Daisuke Yamamura",
-  "license": "MIT",
-  "dependencies": {
-    "@next/font": "^14.1.0",
-    "next": "^14.1.0",
-    "nextra": "^2.13.2",
-    "nextra-theme-docs": "^2.13.2",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.4.17",
-    "postcss": "^8.4.33",
-    "tailwindcss": "^3.4.1"
-  }
+	"name": "sted2-manual",
+	"version": "0.0.1",
+	"description": "User's manual for STed MIDI Sequencer",
+	"scripts": {
+		"dev": "next",
+		"build": "next build",
+		"start": "next start"
+	},
+	"keywords": [],
+	"author": "Daisuke Yamamura",
+	"license": "MIT",
+	"dependencies": {
+		"@next/font": "^14.1.0",
+		"next": "^14.1.0",
+		"nextra": "^2.13.2",
+		"nextra-theme-docs": "^2.13.2",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	},
+	"devDependencies": {
+		"autoprefixer": "^10.4.17",
+		"postcss": "^8.4.33",
+		"tailwindcss": "^3.4.1"
+	}
 }
