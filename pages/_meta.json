@@ -1,6 +1,9 @@
 {
-  "index": "トップ",
-  "main-screen": "メイン画面",
-  "edit-screen": "エディット画面",
-  "command-menu": "コマンドメニュー"
+	"index": "トップ",
+	"main-screen": "メイン画面",
+	"edit-screen": "エディット画面",
+	"command-menu": "コマンドメニュー",
+	"selector": "セレクタ",
+	"editor": "エディタ",
+	"special-controller": "スペシャルコントローラ"
 }
