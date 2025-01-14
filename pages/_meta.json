@@ -4,6 +4,7 @@
 	"edit-screen": "エディット画面",
 	"command-menu": "コマンドメニュー",
 	"selector": "セレクタ",
-	"editor": "エディタ",
+	"track-editor": "トラックエディタ",
+	"rhythm-track-editor": "リズムトラックエディタ",
 	"special-controller": "スペシャルコントローラ"
 }
